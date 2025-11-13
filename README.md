@@ -1,4 +1,4 @@
-# 📊 Adani Stock Data Analysis
+# 📊 Indian Stock Data Analysis
 
 This project provides an **interactive Power BI dashboard** to analyze Adani stock market trends over various time frames. It visualizes **52-week highs & lows**, trading volumes, open/close prices, and aggregated data across **months and quarters**.
 
